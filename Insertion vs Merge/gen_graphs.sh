@@ -5,9 +5,9 @@ make;
 
 # Define tamanhos máximo e mínimo para os vetores, juntamente com passo para incremento do tamanho dos vetores e número de repetições para cada tamanho.
 min_size=1;
-max_size=400;
+max_size=500;
 inc_step=10;
-itr_size=10;
+itr_size=5;
 
 # Iteração para avaliar algoritmos com diferentes tamanhos de vetores.
 echo -n > etimes.txt;

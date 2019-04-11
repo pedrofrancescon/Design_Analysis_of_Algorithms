@@ -16,6 +16,7 @@ int main(int argc, char *argv[]){
 
 	for (int i = 1; i < maxval; i++)
 	{
+		//printf("%d\n", i);
 		printf("%d\n", (int)(rand()%maxval));
 	}
 
