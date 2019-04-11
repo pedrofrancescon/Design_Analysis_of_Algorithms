@@ -1,3 +1,10 @@
+//
+//  mergesort.c
+//
+//  Created by Pedro Francescon Cittolin 
+//  Copyright © 2019 Pedro Francescon Cittolin. All rights reserved.
+//
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
