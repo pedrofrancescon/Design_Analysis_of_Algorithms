@@ -72,13 +72,13 @@ void Graph::_addEdge2File(int node_first, int node_second)
     file_edges << "   " << node_first << " -- " << node_second << ";\n";
 }
 
-void Graph::_addColor2Vertex(int color, int vertex)
+void Graph::addColor2Vertex(int color, int vertex)
 {
-    // Considerando a cor verde como "1"
+    // Considerando a cor verde como sendo o valor "1"
     if (color)
         nodes_green << vertex << " ";
     
-    // Considerando a cor azul como "0"
+    // Considerando a cor azul como sendo o valor "0"
     else
         nodes_blue << vertex << " ";
 }

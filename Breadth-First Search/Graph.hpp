@@ -36,7 +36,7 @@ private:
     /*--------------------------*/
     
     void _addEdge2File(int node_first, int node_second);
-    void _addColor2Vertex(int color, int vertex);
+    void addColor2Vertex(int color, int vertex);
     
 public:
     Graph(int V);
