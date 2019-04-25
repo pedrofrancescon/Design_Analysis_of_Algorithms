@@ -64,7 +64,10 @@ Graph::Graph(int V)
 void Graph::addEdge(int v, int w)
 {
     // Adiciona "w" na lista de adjacência de "v".
-    adj[v].push_back(w);
+    if (v < w)
+        adj[v].push_back(w);
+    else
+        adj[w].push_back(v);
 }
 
 void Graph::_addEdge2File(int node_first, int node_second)
