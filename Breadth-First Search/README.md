@@ -1,8 +1,8 @@
 # Busca em Profundidade
 
-Esse programa executa um algoritmo de [Busca em Profundidade](https://pt.wikipedia.org/wiki/Busca_em_profundidade) em um grafo não direcionado. O resultado final da execução do *script* é uma imagem em formato *.png* de uma possível representação da estrutura final do grafo (vértices e arestas).
+Esse programa executa um algoritmo de [Busca em Profundidade](https://pt.wikipedia.org/wiki/Busca_em_profundidade) em um grafo não direcionado. O resultado final da execução do *script* é uma imagem em formato *".png"* de uma possível representação da estrutura final do grafo (vértices e arestas).
 
-> Algumas partes do código são métodos e atributos já implementados para resolver o problema de coloração de um grafo, e não interferem e nem são diretamente usados nessa versão.
+> Algumas partes do código são métodos e atributos já implementados para resolver o problema de coloração de um grafo. Essas partes não interferem e nem são diretamente usados nessa versão.
 
 ## Uso
 
