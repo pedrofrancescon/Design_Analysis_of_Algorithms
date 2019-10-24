@@ -1,12 +1,12 @@
 # Insertion Sort vs. Merge Sort
 
-O intuito desse *script* é gerar um gráfico de tempo comparativo entre os algorítmos [Insertion Sort](https://pt.wikipedia.org/wiki/Insertion_sort) e [Merge Sort](https://pt.wikipedia.org/wiki/Merge_sort), para diferentes tamanhos de entrada.
+The purpose of this script is to generate a comparative time graph between the [Insertion Sort](https://en.wikipedia.org/wiki/Insertion_sort) and [Merge Sort](https://en.wikipedia.org/wiki/Merge_sort) algorithms, for different input sizes.
 
-## Uso
+## Use
 
-**O código desse repositório depende da biblioteca [gnuplot](http://www.gnuplot.info) para ser executado.**
+**The code of this repository depends on the [gnuplot](http://www.gnuplot.info) library to run.**
 
-Abra o terminal/prompt de comando, na pasta onde se encontram os arquivos, e execute o *script* como abaixo.
+Open the terminal/command prompt in the folder where the files are located and run the script as below.
 
 ```bash
 ./gen_graphs.sh 

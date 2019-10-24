@@ -1,12 +1,12 @@
 # Dijkstra
 
-Esse programa executa o algoritmo [Dijkstra](https://pt.wikipedia.org/wiki/Algoritmo_de_Dijkstra) em um grafo. O resultado final da execução do *script* é uma imagem em formato *".png"* de uma possível representação da estrutura final do grafo (vértices e arestas), indicando o menor caminho encontrado pelo algorítmo.
+This program executes the [Dijkstra](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm) algorithm in a graph. The final result of the script execution is a ".png" image of a possible representation of the final graph structure (vertices and edges), indicating the shortest path found by the algorithm.
 
-## Uso
+## Use
 
-**O código desse repositório depende da biblioteca [graphviz](https://www.graphviz.org) para ser executado.**
+**The code of this repository depends on the [graphviz](https://www.graphviz.org) library to run.**
 
-Abra o terminal/prompt de comando, na pasta onde se encontram os arquivos, e execute o *script* como abaixo.
+Open the terminal/command prompt in the folder where the files are located and run the script as below.
 
 ```bash
 ./run.sh 
