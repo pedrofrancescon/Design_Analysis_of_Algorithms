@@ -13,3 +13,5 @@ Open the terminal/command prompt in the folder where the files are located and r
 ```bash
 ./run.sh 
 ```
+
+> Windows users may need [MinGW](http://mingw.org/) in order to run the code as described above.
